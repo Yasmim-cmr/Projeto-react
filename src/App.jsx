@@ -1,5 +1,5 @@
+import React from "react"
+import { RepositoryList } from "./components/RepositoryList"
 export function App(){
-    return <h1>
-        hello word
-    </h1>
+    return <RepositoryList/>
 }
